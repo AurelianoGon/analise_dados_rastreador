@@ -1,4 +1,4 @@
-![image](https://github.com/AurelianoGon/analise_dados_rastreador/assets/106711467/efbea3e2-f642-47d1-b07d-e44c82169f00)# Estudo de caso de análise de dados da Bellabeat
+
 #### Este projeto envolve analisar dados para obter informações sobre como os consumidores estão usando seus dispositivos inteligentes e fazer excelentes recomendações com base nos insights sobre como essas tendências podem nortear a estratégia de marketing da empresa. 
 
 # Sobre a Empresa

@@ -1,3 +1,4 @@
+# Analise de dados do BellaBeat
 
 #### Este projeto envolve analisar dados para obter informações sobre como os consumidores estão usando seus dispositivos inteligentes e fazer excelentes recomendações com base nos insights sobre como essas tendências podem nortear a estratégia de marketing da empresa. 
 
@@ -76,7 +77,7 @@ Identificou-se padrões e tendências nos dados e extraímos conclusões, após 
 - A média de intensidade por hora do dia é 12.04, variando conforme a rotina e as atividades do usuário.
 - A média de passos dados por hora do dia é 320.2, variando conforme a rotina e as atividades do usuário.
 
-## Nesta etapa, há uma compreensão da visualização de dados e são desenvolvidos recursos visuais eficazes. A comunicação ocorre de maneira clara e persuasiva.
+### Nesta etapa, há uma compreensão da visualização de dados e são desenvolvidos recursos visuais eficazes. A comunicação ocorre de maneira clara e persuasiva.
 
 ## Distribuição de Calorias
 ![image](https://github.com/AurelianoGon/analise_dados_rastreador/assets/106711467/d103a4ca-9410-4070-9033-93be87368fd5)

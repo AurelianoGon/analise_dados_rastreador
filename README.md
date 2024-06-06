@@ -2,11 +2,11 @@
 
 #### Este projeto envolve analisar dados para obter informações sobre como os consumidores estão usando seus dispositivos inteligentes e fazer excelentes recomendações com base nos insights sobre como essas tendências podem nortear a estratégia de marketing da empresa. 
 
-# Sobre a Empresa
+## Sobre a Empresa
 Bellabeat é uma fabricante de produtos de alta tecnologia voltados à saúde para mulheres. 
 A empresa acredita que a análise de dados de condicionamento físico a partir de dispositivos inteligentes pode ajudar a abrir novas oportunidades de crescimento.
 
-# Produtos
+## Produtos
 - *O aplicativo Bellabeat* : fornece aos usuários dados de saúde relacionados à sua atividade, sono, estresse, ciclo menstrual e hábitos de atenção plena. Esses dados podem ajudar os usuários a entender melhor seus hábitos atuais e tomar decisões saudáveis.
 - *Leaf* : o rastreador de bem-estar clássico da Bellabeat pode ser usado como pulseira, colar ou clipe. O rastreador Leaf se conecta ao aplicativo Bellabeat para rastrear a atividade, o sono e o estresse.
 - *Time* : o relógio de bem-estar combina a aparência de um relógio clássico com tecnologia inteligente para rastrear a atividade como: sono e o estresse.
@@ -33,7 +33,7 @@ As Tabelas foram verificadas, classificadas e filtradas no RStudio.
 O conjunto de dados foi coletado e tratado em conformidade com o Regulamento Geral sobre a Proteção de Dados (GDPR), que visa garantir a privacidade e a segurança dos dados pessoais dos usuários.
 Todos os dados pessoais e sensíveis foram anonimizados ou removidos.
 
-# Preparação os dados 
+## Preparação os dados 
 ### Processamento dos dados
 
 1. Para análise, preparação e processamento dos dados foram utilizadas as seguintes bibliotecas:
@@ -55,7 +55,7 @@ Todos os dados pessoais e sensíveis foram anonimizados ou removidos.
 10. Mesclando datasets para futuras análises
 11. Remoção de *Valores Duplicados* e *NA*
 
-# Análise
+## Análise
 Nesta etapa, foram usadas ferramentas para formatar e transformar os dados para análise. Os dados são classificados e filtrados para selecionar as informações mais relevantes.
 Identificou-se padrões e tendências nos dados e extraímos conclusões, após uma análise estatística.
 
